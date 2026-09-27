@@ -1,8 +1,12 @@
-# Singly Linked List in Java
+# DSA in Java
 
-A custom implementation of a Singly Linked List in Java built from scratch to understand the fundamentals of data structures without relying on Java's built-in `LinkedList` class.
+A collection of Data Structures and Algorithms implemented in Java,
+built from scratch to understand their underlying concepts and operations.
 
-## Features
+## Data Structures
+
+### Linked List
+Implementation of a Singly Linked List with:
 
 - Insert at Head
 - Insert at Tail
@@ -15,14 +19,35 @@ A custom implementation of a Singly Linked List in Java built from scratch to un
 - Get List Size
 - Exception Handling for Invalid Index
 
+### Binary Tree
+
+Implementation of fundamental Binary Tree operations, including:
+
+- Tree construction
+- Display / Traversal
+- Size of Tree
+- Sum of Nodes
+- Maximum Node
+- Number of Levels
+- Preorder Traversal
+- Inorder Traversal
+- Postorder Traversal
+- Level Order Traversal (BFS)
+- Level-wise Order Traversal
+- K-th Level Traversal
+
 ## Project Structure
 
 ```text
-LinkedList-Java/
-├── README.md
+Dsa-Java/
 ├── src/
-│   └── linkedList/
-│       ├── Main.java
-│       ├── Node.java
-│       └── SinglyLinkedList.java
-```
+│   ├── linkedList/
+│   │   ├── Main.java
+│   │   ├── Node.java
+│   │   └── SinglyLinkedList.java
+│   │
+│   └── binarytree/
+│       └── BinaryTree01.java
+│
+├── .gitignore
+└── README.md
