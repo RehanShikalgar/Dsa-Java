@@ -1,4 +1,4 @@
-package dsa_linkedList;
+package linkedList;
 class Node{
     int val;
     Node next;

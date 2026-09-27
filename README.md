@@ -21,7 +21,7 @@ A custom implementation of a Singly Linked List in Java built from scratch to un
 LinkedList-Java/
 ├── README.md
 ├── src/
-│   └── dsa_linkedList/
+│   └── linkedList/
 │       ├── Main.java
 │       ├── Node.java
 │       └── SinglyLinkedList.java

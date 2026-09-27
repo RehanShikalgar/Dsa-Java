@@ -1,4 +1,4 @@
-package dsa_linkedList;
+package linkedList;
 
 public class SinglyLinkedList {
 
